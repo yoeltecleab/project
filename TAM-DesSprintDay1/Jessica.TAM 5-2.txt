@@ -1,0 +1,69 @@
+﻿Jessica Tam
+
+
+User Stories:
+
+
+As a new user, I want to better improve my diet.
+
+
+As a potential user I want to better manage my weight.
+
+
+As a construction worker, I want to drink more water throughout the day to stay hydrated.
+
+
+As a college student, I want to better improve my health while also finding cheap alternatives as I have a limited budget.
+
+
+
+
+
+
+Scenarios:
+
+
+Ale’s Scenario: Using the health app to improve his diet
+
+
+Ale is a machine operator, he works 6-4. He wants to start living a much more healthier lifestyle as he’s only ever really been eating microwaveable meals. He hopes the app can improve his eating habits as well as keeping it within a reasonable budget as he has rent to pay and a cat to provide for.
+
+
+To begin, Ale starts by logging his current eating habits and water consumption. He has an inconsistent eating schedule so he tends to log at various different times. However, Ale had quickly forgotten his need to log his daily meals as he has become very busy with his daily life. The app doesn’t provide much notifications for logging his meals, so due to Ale’s forgetfulness he also started to lose motivation. Ale had to figure out some alternatives to remember to log his consumptions. He started setting up reminders on his phone to log it around the times he thinks he is eating. 
+
+
+After a while of logging Ale decided to check what the app recommends and see what nutrients he is lacking in. With the app's recommendation that he needs to consume more vegetables, he uses the feature of the app where he can look up where to find affordable groceries. He is able to get some groceries to start improving his diet however, some groceries are out of his budget set for food.
+
+
+
+
+Lannie’s Scenario: Using the health app to lose weight
+
+
+Lannie works a regular 9-5 office job. She has been gaining some weight due to her stress eating habits as her current job has been very stressful keeping her late at the office working overtime. Lannie downloaded the app to help regulate her diet as she has a busy schedule and work life. Unfortunately due to her busy schedule she struggles to find the time to log what she eats. The app suggests that Lannie could pre-plan meals and also offers much healthier options for snacks.
+
+
+
+
+Shannon’s Scenario:
+
+
+Shannon is a construction worker who often forgets to drink water. She spends a lot of time focused on her work that she often forgets to drink water throughout the day. She downloads the app in hopes to use the reminding feature of the app to help remind her to intake more water throughout the day and reach the appropriate amount each person needs to drink. After a while of logging her water intake she had found that she has been consuming way less water than the average person.
+
+
+
+
+Arek’s Scenario:
+
+
+Arek is a college student with a very busy schedule. She has been thriving off of ramen cups for the past 2 years and is hoping to improve her diet while also looking for cheap alternatives due to her being a college student. After using the app for a few weeks, Arek was able to look for somewhat affordable options, though she wishes there were much more options in the range of affordability. She learned that her eating habits were really bad for her health and those ramen cups, although cheap, were damaging her health immensely.
+
+
+
+
+
+
+Features
+* Motivational mascot - A mascot that motivates the user to continue on
+* Notifications + reminders - Providing the user with notifications and reminders to log their daily intake.
+* Easy Logging buttons - Buttons that allow the user to log their intakes and activities in a much easier manner. These could be some presets made by the user as well.
