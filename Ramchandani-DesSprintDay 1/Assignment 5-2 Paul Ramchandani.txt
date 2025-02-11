@@ -1,0 +1,32 @@
+﻿User stories:
+
+
+1. As a user working towards my fitness goals, I want to see my progress over time so that I stay motivated.
+
+
+2. As a long-term user, I want to set personal health goals so that I can continue improving my lifestyle.
+
+
+3. As a potential user, I want to browse reviews and workout plans so that I can determine if the app suits my needs.
+
+
+4. As an active user, I want a simple way to log my food intake so that I don’t forget to do it when I’m busy.
+
+
+
+
+
+
+Scenarios: 
+
+
+1. David has been using the app for two months and initially saw great progress. However, after a stressful week at work, he loses motivation and stops tracking his food and exercise. When he’s about to give up, the app sends him a motivational message and a summary of his achievements. Seeing how far he has come, David feels inspired to get back on track.
+
+
+2. Mark has been using the app for six months and is proud of his transformation. He loves the progress-tracking graphs and feels accomplished when he sees his improvements. Wanting to inspire others, he shares his success story and favorite app features with his friends, encouraging them to start their health journeys.
+
+
+3. Lisa is a vegetarian and is excited to use the app for meal planning. However, after browsing the food database, she realizes there aren't many vegetarian recipes available. She gets frustrated and considers switching to another app. A few weeks later, she notices an update introducing more plant-based meal ideas, which convinces her to stay.
+
+
+4. Sophia wants to start tracking her nutrition and workouts, but she’s unsure which app to use. She reads reviews, watches YouTube comparisons, and even asks her friends for recommendations. After noticing that one app provides detailed nutritional insights and has a supportive community, she decided to give it a try.
