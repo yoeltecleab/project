@@ -1,0 +1,13 @@
+Scenarios
+
+1. Sarah juggles coursework, a part-time job, and a social life, making it hard to cook healthy meals. She downloads the app after seeing an Instagram ad and uses the budget-friendly meal planner to find quick, affordable meal options that fit her schedule. She also sets reminders to drink water since she often forgets during long study sessions.
+2. James is focused on building muscle and tracking his macronutrients. He logs his meals daily but finds it tedious. He uses the barcode scanner feature to quickly track his protein intake, ensuring he meets his daily goals. With the app’s workout tracker, he syncs his weightlifting sessions and checks his progress each week.
+3. Lena spends most of her day in meetings and frequently forgets to drink water. She enables smart hydration reminders, which adjust based on her activity levels and office hours. When she reaches her daily water goal, she earns streak badges that keep her motivated.
+4. Tom sets a New Year’s resolution to lose 20 pounds but often struggles with motivation. He joins a 30-day weight loss challenge in the app, where he gets small rewards for completing daily wellness goals like logging meals and drinking water. The progress insights help him stay accountable.
+
+User Stories
+
+1. As a busy student, I want to receive meal plans with affordable and easy-to-make recipes, so that I can eat healthily without spending too much time or money on food.
+2. As a fitness enthusiast, I want to track my macronutrient intake effortlessly, so that I can ensure my diet aligns with my muscle-building goals.
+3. As an office worker, I want smart hydration reminders that adjust to my schedule, so that I stay hydrated without being overwhelmed by notifications.
+4. As a beginner trying to develop healthy habits, I want a guided 30-day challenge with small daily goals, so that I stay motivated and don’t give up early.
