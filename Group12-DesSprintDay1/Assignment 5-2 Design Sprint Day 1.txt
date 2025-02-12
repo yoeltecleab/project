@@ -1,0 +1,16 @@
+﻿Names: Jessica Tam, Paul Ramchandani, Tre Watson, Yoel Tecleab, Aniruddh Patel
+
+
+Features
+
+
+1. Barcode & Image-Based Meal Logging – Allows users to scan food packaging or take a photo to automatically log meals, making tracking effortless.
+2. Smartwatch & Fitness App Integration – Syncs with Fitbit, Apple Watch, Google Fit, and other wearable devices to provide automatic tracking.
+3. Motivational buddy - Gives users motivation to continue on through their journey in the form of a cute mascot.
+4. Easy Logging buttons - Quick tappable buttons that allow users to log their water intake much easier. Could be implemented for food logging as well. These could be some presets made by the user as well.
+5. Onboarding Quiz - Assesses users' fitness goals, lifestyle preferences, and dietary habits to personalize app recommendations and enhance engagement from the start.
+6. Gamified Progress - Uses badges, achievements, and interactive visuals to keep users motivated and engaged in their fitness journey.
+7. Integrated alarms - Alarm/ reminder features for the users to remind them to have their meals as well as logging in their meals.
+8. Weekly reports - Receive weekly reports on your intake and healthy lifestyle status, this will be accompanied with a visual graphic as well.
+9. Stores around the area - Gives the users locations of certain products that are within the area, allowing them to know which stores they’re at.
+10.  Nutrition Deficiency Alerts - Gives the user alerts based on what essential nutrients they are lacking in their meal plan, along with suggestions on products to help balance it.
